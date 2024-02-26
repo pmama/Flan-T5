@@ -1,5 +1,6 @@
-# chatbot
-![image](https://github.com/pmama/chatbot/assets/26107548/f3b89c2a-1fbd-48c3-9d85-a283810070d9)
+# Building Chatbot using Flan-T5 Model
+![image](https://github.com/pmama/chatbot/assets/26107548/f3a09ab7-1a54-45aa-a159-12b5ab61aaeb)
+
 
 
 LangChain is an open source orchestration framework for the development of applications using large language models (LLMs). 
